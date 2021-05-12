@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "axios": "^0.19.2",
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "humanize-duration": "^3.24.0",
         "qrcode": "^1.4.4",
         "vue": "^2.6.11",
